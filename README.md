@@ -4,9 +4,9 @@
 
 :timer_clock: Carga horária: 30h 43min
 
-1. [ ] 1. Apresentação do curso - 2 aulas - 12m
-2. [ ] 2. Introdução à programação - 12 aulas - 38m
-3. [ ] 3. Estrutura sequencial - 23 aulas - 2h 55m
+1. [x] 1. Apresentação do curso - 2 aulas - 12m
+2. [x] 2. Introdução à programação - 12 aulas - 38m
+3. [x] 3. Estrutura sequencial - 23 aulas - 2h 55m
 4. [ ] 4. Estrutura condicional - 20 aulas - 2h 56m
 5. [ ] 5. Estruturas repetitivas - 28 aulas - 4h 9m
 6. [ ] 6. Vetores - 21 aulas - 3h 55m
