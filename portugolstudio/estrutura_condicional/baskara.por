@@ -20,7 +20,7 @@ programa
 
 		delta = mat.potencia(b, 2.0) - 4 * a * c
 
-		se(delta >= 0) {
+		se(delta >= 0 e a != 0) {
 			x1 = (-b + mat.raiz(delta, 2.0)) / (2 * a)
 			x1 = mat.arredondar(x1, 4)
 			
