@@ -6,7 +6,7 @@
 programa
 {
 	inclua biblioteca Matematica --> mat
-	inteiro a, b, resto
+	inteiro a, b
 
 	funcao inicio()
 	{
@@ -14,13 +14,7 @@ programa
 		leia(a)
 		leia(b)
 
-		se (a > b) {
-			resto = a % b
-		} senao {
-			resto = b % a
-		}
-
-		se (resto == 0) {
+		se (se a % b == 0 ou b % c == 0) {
 			escreva("\nSao multiplos")
 		} senao {
 			escreva("\nNao sao multiplos")
