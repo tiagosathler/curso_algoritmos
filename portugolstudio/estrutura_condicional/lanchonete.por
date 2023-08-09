@@ -27,17 +27,31 @@ programa
 		leia(codigoDoProdutoComprado)
 		escreva("Quantidade comprada: ")
 		leia(quantidadeComprada)
+		
+		escolha(codigoDoProdutoComprado)
+		{
+			caso 1:
+				valorAPagar += quantidadeComprada * 5.00
+			pare
 
-		se (codigoDoProdutoComprado == 1) {
-			valorAPagar += quantidadeComprada * 5.00
-		} senao se (codigoDoProdutoComprado == 2) {
-			valorAPagar += quantidadeComprada * 3.50
-		} senao se (codigoDoProdutoComprado == 3) {
-			valorAPagar += quantidadeComprada * 4.80
-		} senao se (codigoDoProdutoComprado == 4) {
-			valorAPagar += quantidadeComprada * 8.90
-		} senao se (codigoDoProdutoComprado == 5){
-			valorAPagar += quantidadeComprada * 7.32
+			caso 2:
+				valorAPagar += quantidadeComprada * 3.50
+			pare
+
+			caso 3:
+				valorAPagar += quantidadeComprada * 4.80
+			pare
+
+			caso 4:
+				valorAPagar += quantidadeComprada * 8.90
+			pare
+
+			caso 5:
+				valorAPagar += quantidadeComprada * 7.32
+			pare
+			
+			caso contrario:
+				escreva("Produto inexistente!\n")
 		}
 
 		escreva("Valor a pagar: R$ " + valorAPagar)
@@ -48,7 +62,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 919; 
+ * @POSICAO-CURSOR = 1406; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
