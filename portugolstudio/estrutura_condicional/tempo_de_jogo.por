@@ -8,7 +8,7 @@
 programa
 {
 	inteiro horaInicial, horaFinal
-	inteiro duracao = 24
+	inteiro duracao
 
 	funcao inicio()
 	{
@@ -20,7 +20,7 @@ programa
 
 		se (horaFinal > horaInicial) {
 			duracao = horaFinal - horaInicial
-		} senao se (horaInicial > horaFinal) {
+		} senao {
 			duracao = 24 - horaInicial + horaFinal
 		}
 
