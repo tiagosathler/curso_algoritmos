@@ -26,13 +26,13 @@ programa
 		leia(salarioAtual)
 
 		se (salarioAtual <= 1000.00) {
-			porcentagem = 20.0
+			porcentagem = 20
 		} senao se (salarioAtual <= 3000.00) {
-			porcentagem = 15.0
+			porcentagem = 15
 		} senao se (salarioAtual <= 8000.00) {
-			porcentagem = 10.0
+			porcentagem = 10
 		} senao {
-			porcentagem = 5.0
+			porcentagem = 5
 		}
 
 		aumento = mat.arredondar(salarioAtual * porcentagem / 100, 2)
