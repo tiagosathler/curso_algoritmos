@@ -17,7 +17,7 @@ programa
 
 		se (a >= b e a >= c) {
 			maior = a
-		} senao se (b >= c e b > a) {
+		} senao se (b >= c) {
 			maior = b
 		} senao {
 			maior = c
