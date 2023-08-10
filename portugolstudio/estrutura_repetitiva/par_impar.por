@@ -28,7 +28,7 @@ programa
 				//  2 ->   (0) +   (1) =  1    -> par positivo
 				// -2 ->   (0) +  (-1) = -1    -> par negativo
 				resto = x % 2
-				sinal = x * ((2 * x + 1) % 2) / x
+				sinal = (2 * x + 1) % 2
  				tipo = resto + sinal
 			}
 
