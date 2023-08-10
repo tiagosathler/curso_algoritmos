@@ -13,13 +13,12 @@ programa
 	funcao real leiaANota()
 	{
 		real nota
+		leia(nota)
 
-		faca {
+		enquanto (nota < limiteInferior ou nota > limiteSuperior) {
+			escreva("Valor invalido! Tente novamente: ")
 			leia(nota)
-			se (nota < limiteInferior ou nota > limiteSuperior) {
-				escreva("Valor invalido! Tente novamente: ")
-			}
-		} enquanto (nota < limiteInferior ou nota > limiteSuperior)
+		} 
 
 		retorne nota
 	}
