@@ -10,24 +10,27 @@
 
 programa
 {
-	inteiro x = 1, soma, quantidadeDeIteracoes = 5
+	inteiro x = 1, soma, quantidadeDeIteracoes
 
 	funcao inicio()
 	{
 		enquanto (x != 0)
 		{
-			soma = 0
 			escreva("\nDigite um numero inteiro: ")
 			leia(x)
 
-			se (x != 0) {
-				x = x + x % 2
+			x = x + x % 2
+			soma = x
+			quantidadeDeIteracoes = 5
 
-				para (inteiro i = 0; i < quantidadeDeIteracoes; i++)
-				{
-					soma += x + 2 * i
-				}
-				
+			enquanto (quantidadeDeIteracoes > 1 e x != 0)
+			{
+				x += 2
+				soma += x
+				quantidadeDeIteracoes -= 1
+			}
+
+			se (soma != 0) {
 				escreva("SOMA = ", soma, "\n")
 			}
 		}
