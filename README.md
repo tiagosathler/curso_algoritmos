@@ -8,7 +8,7 @@
 2. [x] 2. Introdução à programação - 12 aulas - 38m
 3. [x] 3. Estrutura sequencial - 23 aulas - 2h 55m
 4. [x] 4. Estrutura condicional - 20 aulas - 2h 56m
-5. [ ] 5. Estruturas repetitivas - 28 aulas - 4h 9m
+5. [x] 5. Estruturas repetitivas - 28 aulas - 4h 9m
 6. [ ] 6. Vetores - 21 aulas - 3h 55m
 7. [ ] 7. Matrizes - 16 aulas - 2h 57m
 8. [ ] 8. Instalação das ferramentas para linguagens - 10 aulas - 32m
