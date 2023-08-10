@@ -23,12 +23,8 @@ programa
 
 		para (inteiro i = x + 1; i < y; i++)
 		{
-			se (i % 2 == 1) {
-				se (i > 0) {
-					soma += i
-				} senao {
-					soma -= i
-				}
+			se (i % 2 != 0) {
+				soma += i
 			}
 		}
 
