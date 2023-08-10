@@ -14,12 +14,11 @@ programa
 	funcao inicio()
 	{
 		escreva("Digite a senha: ")
+		leia(senha)
 
 		enquanto (senha != senhaCorreta) {
+			escreva("Senha inválida! Digite novamente: ")
 			leia(senha)
-			se (senha != senhaCorreta) {
-				escreva("Senha inválida! Digite novamente: ")
-			}
 		}
 
 		escreva("Acesso permitido!\n")
