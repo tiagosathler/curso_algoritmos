@@ -18,12 +18,12 @@ programa
 	{
 		escreva("Digite as idades (negativo para sair):\n")
 
+		leia(idade)
+
 		enquanto (idade >= 0) {
+			contagem += 1
+			soma += idade
 			leia(idade)
-			se (idade >= 0) {
-				contagem += 1
-				soma += idade
-			}
 		}
 
 		se (contagem != 0) {
@@ -39,7 +39,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 569; 
+ * @POSICAO-CURSOR = 658; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
