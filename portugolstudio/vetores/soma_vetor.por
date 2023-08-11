@@ -8,6 +8,7 @@ programa
 {
 	inteiro n
 	real vetor[10], soma = 0.0, media = 0.0
+	cadeia valores = ""
 
 	funcao inicio()
 	{
@@ -24,13 +25,10 @@ programa
 			leia(vetor[i])
 			soma += vetor[i]
 			media += vetor[i] / n
+			valores += " " + vetor[i]
 		}
 
-		escreva("VALORES = ")
-		para (inteiro i=0; i < n; i++) {
-			escreva(" " + vetor[i])
-		}
-
+		escreva("VALORES =" + valores)
 		escreva("\nSOMA = " + soma)
 		escreva("\nMEDIA = " + media)
 	}
