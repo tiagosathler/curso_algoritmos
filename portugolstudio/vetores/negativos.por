@@ -7,6 +7,7 @@ programa
 {
 	inteiro n
 	inteiro vetor[10]
+	cadeia numerosNegativos = ""
 
 	funcao inicio()
 	{
@@ -21,15 +22,12 @@ programa
 		para (inteiro i = 0; i < n; i++) {
 			escreva("Digite um numero ("+ (i + 1) + " de " + n +  "): ")
 			leia(vetor[i])
-		}
-
-		escreva("NUMEROS NEGATIVOS: \n")
-
-		para (inteiro i=0; i < n; i++) {
 			se (vetor[i] < 0) {
-				escreva(vetor[i] + "\n")
+				numerosNegativos += vetor[i] + "\n"
 			}
 		}
+
+		escreva("NUMEROS NEGATIVOS: \n" + numerosNegativos)
 	}
 }
 /* $$$ Portugol Studio $$$ 
