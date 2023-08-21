@@ -34,11 +34,10 @@ programa
 		}
 
 		para (inteiro i = 0; i < n; i++) {
-			real somaDaLinha = 0.0
+			vetor[i] = 0.0
 			para (inteiro j = 0; j < m; j++) {
-				somaDaLinha += matriz[i][j]
+				vetor[i] += matriz[i][j]
 			}
-			vetor[i] = somaDaLinha
 		}
 
 		escreva("\n\nVETOR GERADO:\n")
