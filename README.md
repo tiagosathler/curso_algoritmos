@@ -10,7 +10,7 @@
 4. [x] 4. Estrutura condicional - 20 aulas - 2h 56m
 5. [x] 5. Estruturas repetitivas - 28 aulas - 4h 9m
 6. [x] 6. Vetores - 21 aulas - 3h 55m
-7. [ ] 7. Matrizes - 16 aulas - 2h 57m
+7. [x] 7. Matrizes - 16 aulas - 2h 57m
 8. [ ] 8. Instalação das ferramentas para linguagens - 10 aulas - 32m
 9. [ ] 9. Linguagem C - 35 aulas - 4h 33m
 10. [ ] 10. Linguagem C++ - 18 aulas - 1h 47m
