@@ -26,11 +26,7 @@ programa
 		}
 
 		para (inteiro i = 0; i < n; i++) {
-			para (inteiro j = 0; j < n; j++) {
-				se (i == j) {
-					diagonal[i] = matriz[i][j]
-				}
-			}
+			diagonal[i] = matriz[i][i]
 		}
 
 		para (inteiro i = 0; i < n; i++) {
