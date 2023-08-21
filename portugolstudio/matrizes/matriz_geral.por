@@ -67,11 +67,7 @@ programa
 
 		escreva("\n\nDIAGONAL PRINCIPAL: ")
 		para (inteiro i = 0; i < n; i++) {
-			para (inteiro j = 0; j < n; j++) {
-				se (i == j) {
-					escreva(matriz[i][j] + " ")
-				}
-			}
+			escreva(matriz[i][i] + " ")
 		}
 
 		para (inteiro i = 0; i < n; i++) {
