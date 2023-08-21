@@ -26,10 +26,8 @@ programa
 		}
 
 		para (inteiro i = 0; i < n; i++) {
-			para (inteiro j = 0; j < n; j++) {
-				se (j > i) {
-					somatorio += matriz[i][j]
-				}
+			para (inteiro j = i + 1; j < n; j++) {
+				somatorio += matriz[i][j]
 			}
 		}
 
