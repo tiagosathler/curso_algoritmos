@@ -1,6 +1,7 @@
 {
   "files.associations": {
     ".sequelizerc": "javascript",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "math.h": "c"
   }
 }
