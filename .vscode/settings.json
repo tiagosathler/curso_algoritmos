@@ -3,6 +3,10 @@
     ".sequelizerc": "javascript",
     "stdio.h": "c",
     "math.h": "c",
-    "vector": "c"
+    "vector": "c",
+    "climits": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "iomanip": "cpp"
   }
 }
