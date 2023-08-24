@@ -13,7 +13,7 @@
 7. [x] 7. Matrizes - 16 aulas - 2h 57m
 8. [x] 8. Instalação das ferramentas para linguagens - 10 aulas - 32m
 9. [x] 9. Linguagem C - 35 aulas - 4h 33m
-10. [ ] 10. Linguagem C++ - 18 aulas - 1h 47m
+10. [x] 10. Linguagem C++ - 18 aulas - 1h 47m
 11. [ ] 11. Linguagem Java - 20 aulas - 2h 5m
 12. [ ] 12. Linguagem C# - 20 aulas - 2h 3m
 13. [ ] 13. Linguagem Python - 22 aulas - 2h 3m
