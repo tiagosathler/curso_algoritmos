@@ -24,7 +24,7 @@ public class Circulo {
 
     double area = Math.PI * Math.pow(radius, 2.0);
 
-    System.out.printf("AREA = %.4f\n", area);
+    System.out.printf("AREA = %.4f%n", area);
 
     sc.close();
   }
