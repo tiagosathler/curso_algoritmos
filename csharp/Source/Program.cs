@@ -7,6 +7,7 @@ internal static class Program
     private static void Main(string[] args)
     {
         /// Estruturas sequencial:
-        Terreno.Execute();
+        /// Terreno.Execute();
+        Retangulo.Execute();
     }
 }
