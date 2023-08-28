@@ -1,4 +1,5 @@
 ﻿using Source.Estruturas.Sequencial;
+using Source.Estruturas.Condicional;
 
 namespace Source;
 
@@ -6,7 +7,8 @@ internal static class Program
 {
     private static void Main(string[] args)
     {
-        /// Estruturas sequencial:
+        /// ESTRUTURAS SEQUENCIAIS:
+        ///
         /// Terreno.Execute();
         /// Retangulo.Execute();
         /// Idades.Execute();
@@ -16,6 +18,9 @@ internal static class Program
         /// Pagamento.Execute();
         /// Consumo.Execute();
         /// Medidas.Execute();
-        Duracao.Execute();
+        /// Duracao.Execute();
+
+        /// ESTUTURAS CONDICIONAIS:
+        Notas.Execute();
     }
 }
