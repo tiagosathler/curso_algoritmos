@@ -25,6 +25,7 @@ internal static class Program
         /// Baskara.Execute();
         /// MenorDeTres.Execute();
         /// Operadora.Execute();
-        TrocoVerificado.Execute();
+        /// TrocoVerificado.Execute();
+        Glicose.Execute();
     }
 }
