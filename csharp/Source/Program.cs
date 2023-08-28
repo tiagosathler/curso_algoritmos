@@ -26,6 +26,7 @@ internal static class Program
         /// MenorDeTres.Execute();
         /// Operadora.Execute();
         /// TrocoVerificado.Execute();
-        Glicose.Execute();
+        /// Glicose.Execute();
+        Dardo.Execute();
     }
 }
