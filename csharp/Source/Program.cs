@@ -15,6 +15,7 @@ internal static class Program
         /// Circulo.Execute();
         /// Pagamento.Execute();
         /// Consumo.Execute();
-        Medidas.Execute();
+        /// Medidas.Execute();
+        Duracao.Execute();
     }
 }
