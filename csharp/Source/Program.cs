@@ -29,6 +29,7 @@ internal static class Program
         /// Glicose.Execute();
         /// Dardo.Execute();
         /// Temperatura.Execute();
-        Lanchonete.Execute();
+        /// Lanchonete.Execute();
+        Multiplos.Execute();
     }
 }
