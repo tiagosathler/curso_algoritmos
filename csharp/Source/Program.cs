@@ -30,6 +30,7 @@ internal static class Program
         /// Dardo.Execute();
         /// Temperatura.Execute();
         /// Lanchonete.Execute();
-        Multiplos.Execute();
+        /// Multiplos.Execute();
+        Aumento.Execute();
     }
 }
