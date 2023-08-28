@@ -9,6 +9,7 @@ internal static class Program
         /// Estruturas sequencial:
         /// Terreno.Execute();
         /// Retangulo.Execute();
-        Idades.Execute();
+        /// Idades.Execute();
+        Soma.Execute();
     }
 }
