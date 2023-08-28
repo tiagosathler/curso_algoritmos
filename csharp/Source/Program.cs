@@ -27,6 +27,7 @@ internal static class Program
         /// Operadora.Execute();
         /// TrocoVerificado.Execute();
         /// Glicose.Execute();
-        Dardo.Execute();
+        /// Dardo.Execute();
+        Temperatura.Execute();
     }
 }
