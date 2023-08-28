@@ -24,6 +24,7 @@ internal static class Program
         /// Notas.Execute();
         /// Baskara.Execute();
         /// MenorDeTres.Execute();
-        Operadora.Execute();
+        /// Operadora.Execute();
+        TrocoVerificado.Execute();
     }
 }
