@@ -22,6 +22,7 @@ internal static class Program
 
         /// ESTUTURAS CONDICIONAIS:
         /// Notas.Execute();
-        Baskara.Execute();
+        /// Baskara.Execute();
+        MenorDeTres.Execute();
     }
 }
