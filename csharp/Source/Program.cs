@@ -14,6 +14,7 @@ internal static class Program
         /// Troco.Execute();
         /// Circulo.Execute();
         /// Pagamento.Execute();
-        Consumo.Execute();
+        /// Consumo.Execute();
+        Medidas.Execute();
     }
 }
