@@ -10,6 +10,7 @@ internal static class Program
         /// Terreno.Execute();
         /// Retangulo.Execute();
         /// Idades.Execute();
-        Soma.Execute();
+        /// Soma.Execute();
+        Troco.Execute();
     }
 }
