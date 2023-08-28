@@ -13,6 +13,7 @@ internal static class Program
         /// Soma.Execute();
         /// Troco.Execute();
         /// Circulo.Execute();
-        Pagamento.Execute();
+        /// Pagamento.Execute();
+        Consumo.Execute();
     }
 }
