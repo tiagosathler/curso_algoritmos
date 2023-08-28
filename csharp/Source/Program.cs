@@ -31,6 +31,7 @@ internal static class Program
         /// Temperatura.Execute();
         /// Lanchonete.Execute();
         /// Multiplos.Execute();
-        Aumento.Execute();
+        /// Aumento.Execute();
+        TempoDeJogo.Execute();
     }
 }
