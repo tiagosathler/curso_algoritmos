@@ -32,6 +32,7 @@ internal static class Program
         /// Lanchonete.Execute();
         /// Multiplos.Execute();
         /// Aumento.Execute();
-        TempoDeJogo.Execute();
+        /// TempoDeJogo.Execute();
+        Coordenadas.Execute();
     }
 }
