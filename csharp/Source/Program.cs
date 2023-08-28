@@ -11,6 +11,7 @@ internal static class Program
         /// Retangulo.Execute();
         /// Idades.Execute();
         /// Soma.Execute();
-        Troco.Execute();
+        /// Troco.Execute();
+        Circulo.Execute();
     }
 }
