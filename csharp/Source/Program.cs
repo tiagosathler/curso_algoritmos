@@ -12,6 +12,7 @@ internal static class Program
         /// Idades.Execute();
         /// Soma.Execute();
         /// Troco.Execute();
-        Circulo.Execute();
+        /// Circulo.Execute();
+        Pagamento.Execute();
     }
 }
