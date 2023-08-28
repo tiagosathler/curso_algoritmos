@@ -21,6 +21,7 @@ internal static class Program
         /// Duracao.Execute();
 
         /// ESTUTURAS CONDICIONAIS:
-        Notas.Execute();
+        /// Notas.Execute();
+        Baskara.Execute();
     }
 }
