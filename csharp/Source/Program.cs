@@ -57,6 +57,7 @@ internal static class Program
 
         /// VETORES:
         /// Negativos.Execute();
-        SomaVetor.Execute(); ;
+        /// SomaVetor.Execute();
+        Alturas.Execute();
     }
 }
