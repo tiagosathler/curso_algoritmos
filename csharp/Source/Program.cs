@@ -56,6 +56,7 @@ internal static class Program
         /// Experiencias.Execute();
 
         /// VETORES:
-        Negativos.Execute();
+        /// Negativos.Execute();
+        SomaVetor.Execute(); ;
     }
 }
