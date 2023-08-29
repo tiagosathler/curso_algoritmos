@@ -66,6 +66,7 @@ internal static class Program
         /// AbaixoDaMedia.Execute();
         /// MaisVelho.Execute();
         /// Aprovados.Execute();
-        DadosPessoas.Execute();
+        /// DadosPessoas.Execute();
+        Comerciante.Execute();
     }
 }
