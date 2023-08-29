@@ -24,21 +24,21 @@ internal static class Experiencias
     private static readonly short MIN_CASES = 1;
     private static readonly short MAX_CASES = 15;
 
-    private const string MICE_STRING = "R";
+    private const string MICE_KEY = "R";
     private const string MICE_NAME = "ratos";
 
-    private const string FROGS_STRING = "S";
+    private const string FROGS_KEY = "S";
     private const string FROGS_NAME = "sapos";
 
-    private const string RABBITS_STRING = "C";
+    private const string RABBITS_KEY = "C";
     private const string RABBITS_NAME = "coelhos";
 
     private const string KEY = "KEY";
-    private const string SPECIE = "SPECIE";
+    private const string NAME = "NAME";
 
     private static Dictionary<string, string> InputChoice()
     {
-        Dictionary<string, string> animalKeyAndSpecie = new Dictionary<string, string>();
+        Dictionary<string, string> animalKeyAndName = new Dictionary<string, string>();
 
         string message = $"Tipo de cobaia: " +
             $"({MICE_NAME.ToUpper()[..1]}){MICE_NAME.ToLower()[1..]}, " +
@@ -50,38 +50,38 @@ internal static class Experiencias
 
         switch (key)
         {
-            case MICE_STRING:
+            case MICE_KEY:
                 {
-                    animalKeyAndSpecie.Add(KEY, MICE_STRING);
-                    animalKeyAndSpecie.Add(SPECIE, MICE_NAME);
+                    animalKeyAndName.Add(KEY, MICE_KEY);
+                    animalKeyAndName.Add(NAME, MICE_NAME);
                     break;
                 }
-            case FROGS_STRING:
+            case FROGS_KEY:
                 {
-                    animalKeyAndSpecie.Add(KEY, FROGS_STRING);
-                    animalKeyAndSpecie.Add(SPECIE, FROGS_NAME);
+                    animalKeyAndName.Add(KEY, FROGS_KEY);
+                    animalKeyAndName.Add(NAME, FROGS_NAME);
                     break;
 
                 }
-            case RABBITS_STRING:
+            case RABBITS_KEY:
                 {
-                    animalKeyAndSpecie.Add(KEY, RABBITS_STRING);
-                    animalKeyAndSpecie.Add(SPECIE, RABBITS_NAME);
+                    animalKeyAndName.Add(KEY, RABBITS_KEY);
+                    animalKeyAndName.Add(NAME, RABBITS_NAME);
                     break;
 
                 }
             default: { Console.WriteLine("Opção inválida! Tente novamente."); break; }
         }
 
-        return animalKeyAndSpecie;
+        return animalKeyAndName;
     }
 
-    private static bool InputAnimalQuantity(Dictionary<string, string> animalKeyAndSpecie, Dictionary<string, int> animalsCount)
+    private static bool InputAnimalQuantity(Dictionary<string, string> animalKeyAndName, Dictionary<string, int> animalsCount)
     {
-        string key = animalKeyAndSpecie[KEY];
-        string specie = animalKeyAndSpecie[SPECIE];
+        string key = animalKeyAndName[KEY];
+        string name = animalKeyAndName[NAME];
 
-        Console.Write($"Digite a quantidade de {specie}: ");
+        Console.Write($"Digite a quantidade de {name}: ");
         int quantity = int.Parse(Console.ReadLine()!);
 
         if (quantity <= 0)
@@ -97,9 +97,9 @@ internal static class Experiencias
 
     private static void PrintReport(Dictionary<string, int> animalsCount)
     {
-        int mice = animalsCount[MICE_STRING];
-        int frogs = animalsCount[FROGS_STRING];
-        int rabbits = animalsCount[RABBITS_STRING];
+        int mice = animalsCount[MICE_KEY];
+        int frogs = animalsCount[FROGS_KEY];
+        int rabbits = animalsCount[RABBITS_KEY];
 
         int total = mice + frogs + rabbits;
 
@@ -124,9 +124,9 @@ internal static class Experiencias
 
         Dictionary<string, int> animalsCount = new Dictionary<string, int>
         {
-            { MICE_STRING, 0 },
-            { FROGS_STRING, 0 },
-            { RABBITS_STRING, 0 }
+            { MICE_KEY, 0 },
+            { FROGS_KEY, 0 },
+            { RABBITS_KEY, 0 }
         };
 
         for (int i = 1; i <= n; i++)
@@ -137,11 +137,11 @@ internal static class Experiencias
             {
                 Console.WriteLine($"Entrada número {i} de {n}:");
 
-                Dictionary<string, string> animalKeyAndSpecie = InputChoice();
+                Dictionary<string, string> animalKeyAndName = InputChoice();
 
-                if (animalKeyAndSpecie.ContainsKey(KEY) && animalKeyAndSpecie.ContainsKey(SPECIE))
+                if (animalKeyAndName.ContainsKey(KEY) && animalKeyAndName.ContainsKey(NAME))
                 {
-                    inputed = InputAnimalQuantity(animalKeyAndSpecie, animalsCount);
+                    inputed = InputAnimalQuantity(animalKeyAndName, animalsCount);
                 }
             }
         }
