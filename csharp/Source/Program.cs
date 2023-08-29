@@ -41,6 +41,7 @@ internal static class Program
         /// MediaIdades.Execute();
         /// SenhaFixa.Execute();
         /// Quadrante.Execute();
-        ValidacaoDeNota.Execute();
+        /// ValidacaoDeNota.Execute();
+        Combustivel.Execute();
     }
 }
