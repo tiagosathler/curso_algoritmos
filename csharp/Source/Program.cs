@@ -45,6 +45,7 @@ internal static class Program
         /// Combustivel.Execute();
         /// ParesConsecutivos.Execute();
         /// Tabuada.Execute();
-        SomaImpares.Execute();
+        /// SomaImpares.Execute();
+        SequenciaImpares.Execute();
     }
 }
