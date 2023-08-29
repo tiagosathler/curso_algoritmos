@@ -38,6 +38,7 @@ internal static class Program
 
         /// ESTUTURAS REPETIDAS:
         /// Crescente.Execute();
-        MediaIdades.Execute();
+        /// MediaIdades.Execute();
+        SenhaFixa.Execute();
     }
 }
