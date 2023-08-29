@@ -75,6 +75,7 @@ internal static class Program
         /// SomaLinhas.Execute();
         /// NegativosMatriz.Execute();
         /// CadaLinha.Execute();
-        SomaMatrizes.Execute();
+        /// SomaMatrizes.Execute();
+        AcimaDiagonal.Execute();
     }
 }
