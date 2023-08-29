@@ -2,6 +2,7 @@
 using Source.Estruturas.Condicional;
 using Source.Estruturas.Repetidas;
 using Source.Vetores;
+using Source.Matrizes;
 
 namespace Source;
 
@@ -61,12 +62,15 @@ internal static class Program
         /// Alturas.Execute();
         /// MediaPares.Execute();
         /// NumerosPares.Execute();
-        ///MaiorPosicao.Execute();
+        /// MaiorPosicao.Execute();
         /// SomaVetores.Execute();
         /// AbaixoDaMedia.Execute();
         /// MaisVelho.Execute();
         /// Aprovados.Execute();
         /// DadosPessoas.Execute();
-        Comerciante.Execute();
+        /// Comerciante.Execute();
+
+        /// MATRIZES:
+        DiagonalNegativos.Execute();
     }
 }
