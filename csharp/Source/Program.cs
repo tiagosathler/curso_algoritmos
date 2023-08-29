@@ -47,6 +47,7 @@ internal static class Program
         /// Tabuada.Execute();
         /// SomaImpares.Execute();
         /// SequenciaImpares.Execute();
-        DentroFora.Execute();
+        /// DentroFora.Execute();
+        ParImpar.Execute();
     }
 }
