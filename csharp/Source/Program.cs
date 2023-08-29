@@ -49,6 +49,7 @@ internal static class Program
         /// SequenciaImpares.Execute();
         /// DentroFora.Execute();
         /// ParImpar.Execute();
-        MediaPonderada.Execute();
+        /// MediaPonderada.Execute();
+        Divisao.Execute();
     }
 }
