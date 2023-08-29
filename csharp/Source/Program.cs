@@ -39,6 +39,7 @@ internal static class Program
         /// ESTUTURAS REPETIDAS:
         /// Crescente.Execute();
         /// MediaIdades.Execute();
-        SenhaFixa.Execute();
+        /// SenhaFixa.Execute();
+        Quadrante.Execute();
     }
 }
