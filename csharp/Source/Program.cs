@@ -73,6 +73,7 @@ internal static class Program
         /// MATRIZES:
         /// DiagonalNegativos.Execute();
         /// SomaLinhas.Execute();
-        NegativosMatriz.Execute();
+        /// NegativosMatriz.Execute();
+        CadaLinha.Execute();
     }
 }
