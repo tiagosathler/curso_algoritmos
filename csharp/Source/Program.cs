@@ -51,6 +51,7 @@ internal static class Program
         /// ParImpar.Execute();
         /// MediaPonderada.Execute();
         /// Divisao.Execute();
-        Fatorial.Execute();
+        /// Fatorial.Execute();
+        Experiencias.Execute();
     }
 }
