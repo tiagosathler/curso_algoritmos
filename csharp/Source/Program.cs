@@ -65,6 +65,7 @@ internal static class Program
         /// SomaVetores.Execute();
         /// AbaixoDaMedia.Execute();
         /// MaisVelho.Execute();
-        Aprovados.Execute();
+        /// Aprovados.Execute();
+        DadosPessoas.Execute();
     }
 }
