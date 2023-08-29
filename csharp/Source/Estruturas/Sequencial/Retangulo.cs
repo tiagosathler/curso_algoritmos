@@ -21,8 +21,8 @@ internal static class Retangulo
         double perimeter = 2 * (baseLength + height);
         double diagonal = Math.Sqrt(Math.Pow(baseLength, 2.0) + height * height);
 
-        Console.WriteLine("ÁREA = {0:F4}\n", area);
-        Console.WriteLine("PERÍMETRO = {0:F4}\n", perimeter);
-        Console.WriteLine("DIAGONAL = {0:F4}\n", diagonal);
+        Console.WriteLine("ÁREA = {0:F4}", area);
+        Console.WriteLine("PERÍMETRO = {0:F4}", perimeter);
+        Console.WriteLine("DIAGONAL = {0:F4}", diagonal);
     }
 }
