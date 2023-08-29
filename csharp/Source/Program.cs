@@ -44,6 +44,7 @@ internal static class Program
         /// ValidacaoDeNota.Execute();
         /// Combustivel.Execute();
         /// ParesConsecutivos.Execute();
-        Tabuada.Execute();
+        /// Tabuada.Execute();
+        SomaImpares.Execute();
     }
 }
