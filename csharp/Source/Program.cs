@@ -37,6 +37,7 @@ internal static class Program
         /// Coordenadas.Execute();
 
         /// ESTUTURAS REPETIDAS:
-        Crescente.Execute();
+        /// Crescente.Execute();
+        MediaIdades.Execute();
     }
 }
