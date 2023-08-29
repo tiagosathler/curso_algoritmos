@@ -71,6 +71,7 @@ internal static class Program
         /// Comerciante.Execute();
 
         /// MATRIZES:
-        DiagonalNegativos.Execute();
+        /// DiagonalNegativos.Execute();
+        SomaLinhas.Execute();
     }
 }
