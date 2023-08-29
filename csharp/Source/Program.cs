@@ -42,6 +42,7 @@ internal static class Program
         /// SenhaFixa.Execute();
         /// Quadrante.Execute();
         /// ValidacaoDeNota.Execute();
-        Combustivel.Execute();
+        /// Combustivel.Execute();
+        ParesConsecutivos.Execute();
     }
 }
