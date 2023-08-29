@@ -63,6 +63,7 @@ internal static class Program
         /// NumerosPares.Execute();
         ///MaiorPosicao.Execute();
         /// SomaVetores.Execute();
-        AbaixoDaMedia.Execute();
+        /// AbaixoDaMedia.Execute();
+        MaisVelho.Execute();
     }
 }
