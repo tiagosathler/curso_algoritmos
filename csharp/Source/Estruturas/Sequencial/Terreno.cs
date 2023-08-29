@@ -25,7 +25,7 @@ internal static class Terreno
         double area = width * length;
         double price = squareMeterValue * area;
 
-        Console.WriteLine("Área do terreno: {0:F2}\n", area);
-        Console.WriteLine("Preço do terreno: {0:F2}\n", price);
+        Console.WriteLine("Área do terreno: {0:F2}", area);
+        Console.WriteLine("Preço do terreno: {0:F2}", price);
     }
 }
