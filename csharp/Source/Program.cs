@@ -1,6 +1,7 @@
 ﻿using Source.Estruturas.Sequencial;
 using Source.Estruturas.Condicional;
 using Source.Estruturas.Repetidas;
+using Source.Vetores;
 
 namespace Source;
 
@@ -52,6 +53,9 @@ internal static class Program
         /// MediaPonderada.Execute();
         /// Divisao.Execute();
         /// Fatorial.Execute();
-        Experiencias.Execute();
+        /// Experiencias.Execute();
+
+        /// VETORES:
+        Negativos.Execute();
     }
 }
