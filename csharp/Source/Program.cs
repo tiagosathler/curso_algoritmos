@@ -50,6 +50,7 @@ internal static class Program
         /// DentroFora.Execute();
         /// ParImpar.Execute();
         /// MediaPonderada.Execute();
-        Divisao.Execute();
+        /// Divisao.Execute();
+        Fatorial.Execute();
     }
 }
