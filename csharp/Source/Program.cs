@@ -40,6 +40,7 @@ internal static class Program
         /// Crescente.Execute();
         /// MediaIdades.Execute();
         /// SenhaFixa.Execute();
-        Quadrante.Execute();
+        /// Quadrante.Execute();
+        ValidacaoDeNota.Execute();
     }
 }
