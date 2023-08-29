@@ -60,6 +60,7 @@ internal static class Program
         /// SomaVetor.Execute();
         /// Alturas.Execute();
         /// MediaPares.Execute();
-        NumerosPares.Execute();
+        /// NumerosPares.Execute();
+        MaiorPosicao.Execute();
     }
 }
