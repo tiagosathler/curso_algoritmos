@@ -1,5 +1,6 @@
 ﻿using Source.Estruturas.Sequencial;
 using Source.Estruturas.Condicional;
+using Source.Estruturas.Repetidas;
 
 namespace Source;
 
@@ -33,6 +34,9 @@ internal static class Program
         /// Multiplos.Execute();
         /// Aumento.Execute();
         /// TempoDeJogo.Execute();
-        Coordenadas.Execute();
+        /// Coordenadas.Execute();
+
+        /// ESTUTURAS REPETIDAS:
+        Crescente.Execute();
     }
 }
