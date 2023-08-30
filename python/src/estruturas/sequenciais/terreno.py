@@ -20,3 +20,7 @@ def terreno() -> None:
 
     print(f"Área do terreno = {area:.2f}")
     print(f"Preço do terreno = R$ {price:.2f}")
+
+
+if __name__ == "__main__":
+    terreno()
