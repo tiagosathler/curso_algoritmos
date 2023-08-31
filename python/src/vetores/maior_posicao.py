@@ -14,7 +14,7 @@ def maior_posicao() -> None:
     if not MIN_SIZE < n <= MAX_SIZE:
         n = MIN_SIZE
 
-    vector: [float] = n * [0.0]
+    vector = n * [0.0]
 
     for i in range(len(vector)):
         vector[i] = float(input(f"Digite um número ({i + 1} de {n}): "))
@@ -22,7 +22,7 @@ def maior_posicao() -> None:
     position = 0
     biggest_number = vector[position]
 
-    for i in range(len(vector)):
+    for i in range(1, len(vector)):
         if vector[i] > biggest_number:
             biggest_number = vector[i]
             position = i
