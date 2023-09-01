@@ -16,7 +16,7 @@
 10. [x] 10. Linguagem C++ - 18 aulas - 1h 47m
 11. [x] 11. Linguagem Java - 20 aulas - 2h 5m
 12. [x] 12. Linguagem C# - 20 aulas - 2h 3m
-13. [ ] 13. Linguagem Python - 22 aulas - 2h 3m
+13. [x] 13. Linguagem Python - 22 aulas - 2h 3m
 
 [Udemy](https://www.udemy.com)
 
