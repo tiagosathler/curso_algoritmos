@@ -1,6 +1,6 @@
 # Curso de Algoritmos e Estruturas de Dados
 
-## Conteúdo
+## :white_check_mark:  Conteúdo
 
 :timer_clock: Carga horária do curso: 30h 43min
 
@@ -27,13 +27,19 @@ Ministrado pelo [Prof. Dr. Nelio Alves](https://www.udemy.com/user/nelio-alves/)
 ## :memo: Exercícios
 
 Carga horária dos exercícios:
+
 [![wakatime](https://wakatime.com/badge/github/tiagosathler/curso_algoritmos.svg)](https://wakatime.com/badge/github/tiagosathler/curso_algoritmos)
 
 <ol>
-    <li>
+  <li>
     <h3>Estruturas sequenciais</h3>
     <details>
-      <summary><h4>Problema: círculo</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->círculo
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler o valor 'r' do raio de um círculo, e
         depois mostrar o valor da área do círculo com três asas decimais. A
@@ -48,17 +54,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/circulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -68,7 +74,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -78,7 +84,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -88,7 +94,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -98,7 +104,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -107,7 +113,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: consumo</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->consumo
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler a distância total (em km) percorrida por
         um carro, bem como o total de combustível gasto por este carro ao
@@ -121,17 +132,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/consumo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -141,7 +152,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -151,7 +162,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -161,7 +172,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -171,7 +182,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -180,7 +191,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: duração</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->duração
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler uma duração de tempo em segundos, daí
         imprimir na tela esta duração no formato: horas:minutos:segundos.
@@ -192,17 +208,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/duracao.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -212,7 +228,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -222,7 +238,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -232,7 +248,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -242,7 +258,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -251,7 +267,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: idades</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->idades
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler o nome e idade de duas pessoas. Ao final
         mostrar uma mensagem com os nomes e a idade média *entre essas
@@ -264,17 +285,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/idades.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -284,7 +305,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -294,7 +315,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -304,7 +325,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -314,7 +335,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -323,7 +344,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: medidas</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->medidas
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler três medidas A, B e C. Em seguida,
         calcular e mostrar (imprimir os dados com quatro casas decimais): a)
@@ -337,17 +363,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/medidas.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -357,7 +383,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -367,7 +393,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -377,7 +403,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -387,7 +413,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -396,7 +422,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: pagamento</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->pagamento
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler o nome de um(a) funcionário(a), o valor
         que ele(a) recebe por hora, e a quantidade de horas trabalhadas por
@@ -410,17 +441,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/pagamento.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -430,7 +461,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -440,7 +471,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -450,7 +481,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -460,7 +491,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -469,7 +500,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: retângulo</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->retângulo
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler as medidas da base e altura de um
         retângulo. Em seguida, mostrar o valor da área, perímetro e diagonal
@@ -482,17 +518,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/retangulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -502,7 +538,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -512,7 +548,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -522,7 +558,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -532,7 +568,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -541,7 +577,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: soma</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->soma
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler dois valores inteiros X e Y, e depois
         mostrar na tela o valor da soma destes números.
@@ -553,17 +594,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/soma.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -573,7 +614,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -583,7 +624,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -593,7 +634,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -603,7 +644,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -612,7 +653,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: terreno</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->terreno
+        </h4>
+      </summary>
       <p>
         Fazer um programa para ler as medidas da largura e comprimento de um
         terreno retangular com uma casa decimal, bem como o valor do metro
@@ -627,17 +673,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/terreno.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -647,7 +693,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -657,7 +703,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -667,7 +713,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -677,7 +723,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -686,7 +732,12 @@ Carga horária dos exercícios:
       </div>
     </details>
     <details>
-      <summary><h4>Problema: troco</h4></summary>
+      <summary>
+        <h4>
+          Problema:
+          <!-- -->troco
+        </h4>
+      </summary>
       <p>
         Fazer um programa para calcular o troco no processo de pagamento de
         um produto de uma mercearia. O programa deve ler o preço unitário do
@@ -702,17 +753,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/troco.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -722,7 +773,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -732,7 +783,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -742,7 +793,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -752,7 +803,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -784,17 +835,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/circulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -804,7 +855,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -814,7 +865,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -824,7 +875,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -834,7 +885,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -862,17 +913,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/consumo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -882,7 +933,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -892,7 +943,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -902,7 +953,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -912,7 +963,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -938,17 +989,17 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/duracao.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -958,7 +1009,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -968,7 +1019,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -978,7 +1029,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -988,7 +1039,7 @@ Carga horária dos exercícios:
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1015,17 +1066,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/idades.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1035,7 +1086,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1045,7 +1096,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1055,7 +1106,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1065,7 +1116,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1093,17 +1144,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/medidas.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1113,7 +1164,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1123,7 +1174,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1133,7 +1184,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1143,7 +1194,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1171,17 +1222,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/pagamento.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1191,7 +1242,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1201,7 +1252,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1211,7 +1262,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1221,7 +1272,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1248,17 +1299,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/retangulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1268,7 +1319,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1278,7 +1329,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1288,7 +1339,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1298,7 +1349,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1324,17 +1375,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/soma.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1344,7 +1395,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1354,7 +1405,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1364,7 +1415,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1374,7 +1425,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1403,17 +1454,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/terreno.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1423,7 +1474,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1433,7 +1484,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1443,7 +1494,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1453,7 +1504,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1483,17 +1534,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/troco.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1503,7 +1554,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1513,7 +1564,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1523,7 +1574,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1533,7 +1584,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1565,17 +1616,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/circulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1585,7 +1636,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1595,7 +1646,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1605,7 +1656,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1615,7 +1666,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1643,17 +1694,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/consumo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1663,7 +1714,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1673,7 +1724,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1683,7 +1734,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1693,7 +1744,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1719,17 +1770,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/duracao.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1739,7 +1790,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1749,7 +1800,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1759,7 +1810,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1769,7 +1820,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1796,17 +1847,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/idades.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1816,7 +1867,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1826,7 +1877,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1836,7 +1887,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1846,7 +1897,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1874,17 +1925,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/medidas.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1894,7 +1945,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1904,7 +1955,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1914,7 +1965,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -1924,7 +1975,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -1952,17 +2003,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/pagamento.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -1972,7 +2023,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -1982,7 +2033,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -1992,7 +2043,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2002,7 +2053,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2029,17 +2080,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/retangulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2049,7 +2100,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2059,7 +2110,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2069,7 +2120,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2079,7 +2130,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2105,17 +2156,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/soma.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2125,7 +2176,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2135,7 +2186,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2145,7 +2196,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2155,7 +2206,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2184,17 +2235,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/terreno.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2204,7 +2255,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2214,7 +2265,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2224,7 +2275,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2234,7 +2285,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2264,17 +2315,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/troco.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2284,7 +2335,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2294,7 +2345,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2304,7 +2355,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2314,7 +2365,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2346,17 +2397,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/circulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2366,7 +2417,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2376,7 +2427,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2386,7 +2437,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2396,7 +2447,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2424,17 +2475,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/consumo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2444,7 +2495,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2454,7 +2505,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2464,7 +2515,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2474,7 +2525,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2500,17 +2551,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/duracao.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2520,7 +2571,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2530,7 +2581,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2540,7 +2591,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2550,7 +2601,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2577,17 +2628,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/idades.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2597,7 +2648,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2607,7 +2658,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2617,7 +2668,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2627,7 +2678,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2655,17 +2706,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/medidas.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2675,7 +2726,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2685,7 +2736,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2695,7 +2746,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2705,7 +2756,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2733,17 +2784,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/pagamento.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2753,7 +2804,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2763,7 +2814,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2773,7 +2824,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2783,7 +2834,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2810,17 +2861,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/retangulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2830,7 +2881,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2840,7 +2891,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2850,7 +2901,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2860,7 +2911,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2886,17 +2937,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/soma.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2906,7 +2957,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2916,7 +2967,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -2926,7 +2977,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -2936,7 +2987,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -2965,17 +3016,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/terreno.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -2985,7 +3036,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -2995,7 +3046,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3005,7 +3056,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3015,7 +3066,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3045,17 +3096,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/troco.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3065,7 +3116,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3075,7 +3126,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3085,7 +3136,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3095,7 +3146,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3127,17 +3178,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/circulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3147,7 +3198,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3157,7 +3208,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3167,7 +3218,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3177,7 +3228,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3205,17 +3256,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/consumo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3225,7 +3276,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3235,7 +3286,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3245,7 +3296,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3255,7 +3306,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3281,17 +3332,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/duracao.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3301,7 +3352,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3311,7 +3362,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3321,7 +3372,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3331,7 +3382,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3358,17 +3409,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/idades.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3378,7 +3429,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3388,7 +3439,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3398,7 +3449,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3408,7 +3459,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3436,17 +3487,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/medidas.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3456,7 +3507,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3466,7 +3517,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3476,7 +3527,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3486,7 +3537,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3514,17 +3565,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/pagamento.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3534,7 +3585,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3544,7 +3595,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3554,7 +3605,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3564,7 +3615,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3591,17 +3642,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/retangulo.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3611,7 +3662,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3621,7 +3672,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3631,7 +3682,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3641,7 +3692,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3667,17 +3718,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/soma.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3687,7 +3738,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3697,7 +3748,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3707,7 +3758,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3717,7 +3768,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3746,17 +3797,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/terreno.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3766,7 +3817,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3776,7 +3827,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3786,7 +3837,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3796,7 +3847,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
@@ -3826,17 +3877,17 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/22550abb8843d45edda0f29f99a7727ed62d9c50/assets/figures/logo.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/portugol.png"
             alt="portugoal studio"
             align="center"
-            height="48"
-            width="48" /></a
+            height="36"
+            width="36" /></a
         ><a
           href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_sequencial/troco.c"
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/c.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/c-original.svg"
             alt="c language"
             align="center"
             height="36"
@@ -3846,7 +3897,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/cpp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/cplusplus-original.svg"
             alt="c++ language"
             align="center"
             height="36"
@@ -3856,7 +3907,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/csharp.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/csharp-original.svg"
             alt="c# language"
             align="center"
             height="36"
@@ -3866,7 +3917,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/java.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/java-original.svg"
             alt="java language"
             align="center"
             height="36"
@@ -3876,7 +3927,7 @@ mostrar uma mensagem com os nomes e a idade média* entre essas
           target="_blank"
           rel="noreferrer"
           ><img
-            src="https://github.com/tiagosathler/curso_algoritmos/blob/d487880645eda1cff9211414fec9564fd96ea6ca/assets/figures/python.png"
+            src="https://github.com/tiagosathler/curso_algoritmos/blob/d55b0c86383be61b5b1c92e5e2a05770df6e08bd/assets/figures/python-original.svg"
             alt="python language"
             align="center"
             height="36"
