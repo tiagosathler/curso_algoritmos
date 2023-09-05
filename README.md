@@ -30,6 +30,8 @@ Carga horária dos exercícios:
 
 [![wakatime](https://wakatime.com/badge/github/tiagosathler/curso_algoritmos.svg)](https://wakatime.com/badge/github/tiagosathler/curso_algoritmos)
 
+> Os exercícios foram feitos em [Portugol Studio](https://univali-lite.github.io/Portugol-Studio/), C, C++, C#, Java e Python.
+
 <ol>
   <li><h3>Estruturas sequenciais</h3></li>
   <details>
