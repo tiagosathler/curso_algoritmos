@@ -4207,3 +4207,7 @@ Carga horária dos exercícios:
     </div>
   </details>
 </ol>
+
+## 📜 Certificado
+
+![certificado](https://github.com/tiagosathler/curso_algoritmos/blob/44a2cade1b0a1e550c86ee40bf415a5fcd857e97/assets/figures/certificado.jpg)
