@@ -1749,7 +1749,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/crescente.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/crescente.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1758,7 +1758,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/crescente.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/crescente.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1821,7 +1821,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/media_idades.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/media_idades.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1830,7 +1830,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/media_idades.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/media_idades.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1893,7 +1893,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/senha_fixa.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/senha_fixa.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1902,7 +1902,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/senha_fixa.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/senha_fixa.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1965,7 +1965,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/quadrante.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/quadrante.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -1974,7 +1974,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/quadrante.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/quadrante.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2036,7 +2036,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/validacao_de_nota.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/validacao_de_nota.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2045,7 +2045,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/validacao_de_nota.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/validacao_de_nota.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2111,7 +2111,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/combustivel.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/combustivel.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2120,7 +2120,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/combustivel.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/combustivel.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2185,7 +2185,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/pares_consecutivos.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/pares_consecutivos.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2194,7 +2194,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/pares_consecutivos.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/pares_consecutivos.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2254,7 +2254,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/tabuada.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/tabuada.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2263,7 +2263,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/tabuada.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/tabuada.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2323,7 +2323,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/soma_impares.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/soma_impares.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2332,7 +2332,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/soma_impares.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/soma_impares.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2392,7 +2392,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/sequencia_impares.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/sequencia_impares.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2401,7 +2401,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/sequencia_impares.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/sequencia_impares.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2458,7 +2458,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/dentro_fora.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/dentro_fora.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2467,7 +2467,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/dentro_fora.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/dentro_fora.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2526,7 +2526,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/par_impar.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/par_impar.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2535,7 +2535,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/par_impar.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/par_impar.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2596,7 +2596,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/media_ponderada.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/media_ponderada.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2605,7 +2605,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/media_ponderada.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/media_ponderada.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2662,7 +2662,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/divisao.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/divisao.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2671,7 +2671,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/divisao.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/divisao.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2727,7 +2727,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/fatorial.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/fatorial.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2736,7 +2736,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/fatorial.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/fatorial.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2806,7 +2806,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estrutura_repetitivas/experiencias.c"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/c/estruturas_repetitivas/experiencias.c"
         target="_blank"
         rel="noreferrer"
         ><img
@@ -2815,7 +2815,7 @@ Carga horária dos exercícios:
           height="36"
           width="36" /></a
       ><a
-        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitiva/experiencias.cpp"
+        href="https://github.com/tiagosathler/curso_algoritmos/blob/master/cpp/estrutura_repetitivas/experiencias.cpp"
         target="_blank"
         rel="noreferrer"
         ><img
