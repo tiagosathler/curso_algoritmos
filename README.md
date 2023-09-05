@@ -1368,7 +1368,7 @@ Carga horária dos exercícios:
       </tr>
       <tr>
         <td>5</td>
-        <tr>R$ 7.32</tr>
+        <td>R$ 7.32</td>
       </tr>
     </table>
     <p>Soluções:</p>
