@@ -35,8 +35,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->terreno
+        Problema: terreno
       </h5>
     </summary>
     <p>
@@ -108,8 +107,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->retângulo
+        Problema: retângulo
       </h5>
     </summary>
     <p>
@@ -179,8 +177,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->idades
+        Problema: idades
       </h5>
     </summary>
     <p>
@@ -250,8 +247,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->soma
+        Problema: soma
       </h5>
     </summary>
     <p>
@@ -320,8 +316,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->troco
+        Problema: troco
       </h5>
     </summary>
     <p>
@@ -393,8 +388,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->círculo
+        Problema: círculo
       </h5>
     </summary>
     <p>
@@ -466,8 +460,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->pagamento
+        Problema: pagamento
       </h5>
     </summary>
     <p>
@@ -538,8 +531,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->consumo
+        Problema: consumo
       </h5>
     </summary>
     <p>
@@ -610,8 +602,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->medidas
+        Problema: medidas
       </h5>
     </summary>
     <p>
@@ -682,8 +673,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->duração
+        Problema: duração
       </h5>
     </summary>
     <p>
@@ -753,8 +743,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->notas
+        Problema: notas
       </h5>
     </summary>
     <p>
@@ -826,8 +815,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->bhaskara
+        Problema: bhaskara
       </h5>
     </summary>
     <p>
@@ -898,8 +886,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->menor de três
+        Problema: menor de três
       </h5>
     </summary>
     <p>
@@ -969,8 +956,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->operadora
+        Problema: operadora
       </h5>
     </summary>
     <p>
@@ -1041,8 +1027,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->troco verificado
+        Problema: troco verificado
       </h5>
     </summary>
     <p>
@@ -1115,19 +1100,32 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->glicose
+        Problema: glicose
       </h5>
     </summary>
     <p>
       Fazer um programa para ler a quantidade de glicose no sangue de uma
       pessoa e depois mostrar na tela a classificação desta glicose conforme
       a tabela de referência abaixo:
-      |----------------------------------------------| | Classificação |
-      Glicose | |----------------------------------------------| | Normal |
-      Até 100 mg/dl | | Elevado | Maior que 100 até 140 mg/dl | | Diabetes |
-      Maior de 140 mg/dl | |----------------------------------------------|.
     </p>
+    <table>
+      <tr>
+        <th>Glicose</th>
+        <th>Classificação</th>
+      </tr>
+      <tr>
+        <td>Até 100 mg/dl</td>
+        <td>Normal</td>
+      </tr>
+      <tr>
+        <td>Maior que 100 até 140 mg/dl</td>
+        <td>Elevado</td>
+      </tr>
+      <tr>
+        <td>Maior de 140 mg/dl</td>
+        <td>Diabetes</td>
+      </tr>
+    </table>
     <p>Soluções:</p>
     <div>
       <a
@@ -1190,8 +1188,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->dardo
+        Problema: dardo
       </h5>
     </summary>
     <p>
@@ -1262,8 +1259,7 @@ Carga horária dos exercícios:
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->temperatura
+        Problema: temperatura
       </h5>
     </summary>
     <p>
@@ -1272,8 +1268,10 @@ Carga horária dos exercícios:
       que leia a letra "C" ou "F" indicando em qual escala vai ser informada
       uma temperatura. Em seguida o programa deve mostrar a temperatura na
       outra escala com duas casas decimais. A seguir são dadas as fórmulas
-para converter de Fahrenheit para Celsius e vice-versa: C = (F - 32)*
-      5 / 9 F = C *9 / 5 + 32
+      para converter de Fahrenheit para Celsius e vice-versa:
+    </p>
+<p>C = (F - 32)* 5 / 9</p>
+    <p>F = C * 9 / 5 + 32</p>
     </p>
     <p>Soluções:</p>
     <div>
@@ -1337,8 +1335,7 @@ para converter de Fahrenheit para Celsius e vice-versa: C = (F - 32)*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->lanchonete
+        Problema: lanchonete
       </h5>
     </summary>
     <p>
@@ -1346,11 +1343,34 @@ para converter de Fahrenheit para Celsius e vice-versa: C = (F - 32)*
       um preço. Você deve fazer um programa para ler o código e a quantidade
       comprada de um produto (suponha um código válido), e daí informar qual
       o valor a ser pago, com duas casas decimais, conforme tabela de
-produtos abaixo.*--------------------------------------*| Código do
-      produto | Preço do produto | |-------------------|------------------|
-      | 1 | R$ 5.00 | | 2 | R$ 3.50 | | 3 | R$ 4.80 | | 4 | R$ 8.90 | | 5 |
-R$ 7.32 |*--------------------------------------*
+      produtos abaixo.
     </p>
+    <table>
+      <tr>
+        <th>Código do produto</th>
+        <th>Preço do produto</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>R$ 5.00</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>R$ 3.50</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>R$ 4.80</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>R$ 8.90</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <tr>R$ 7.32</tr>
+      </tr>
+    </table>
     <p>Soluções:</p>
     <div>
       <a
@@ -1413,8 +1433,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->múltiplos
+        Problema: múltiplos
       </h5>
     </summary>
     <p>
@@ -1487,10 +1506,30 @@ R$ 7.32 |*--------------------------------------*
       funcionários dependendo de quanto cada pessoa ganha, conforme tabela
       ao lado. Fazer um programa para ler o salário de uma pessoa, daí
       mostrar qual o novo salário desta pessoa depois do aumento, quanto foi
-      o aumento e qual foi a porcentagem de aumento. Salário atual: Até R$
-      1000.00 -&gt; Aumento 20% Acima de R$ 1000.00 até R$ 3000.00 -&gt;
-      Aumento 15% Acima de R$ 3000.00 até R$ 8000.00 -&gt; Aumento 10% Acima
-      de R$ 8000.00 -&gt; Aumento 5%
+      o aumento e qual foi a porcentagem de aumento.
+    </p>
+    <table>
+      <tr>
+        <th>Salário atual</th>
+        <th>Aumento</th>
+      </tr>
+      <tr>
+        <td>Até R$ 1000.00</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>Acima de R$ 1000.00 até R$ 3000.00</td>
+        <td>15%</td>
+      </tr>
+      <tr>
+        <td>Acima de R$ 3000.00 até R$ 8000.00</td>
+        <td>10%</td>
+      </tr>
+      <tr>
+        <td>Acima de R$ 8000.00</td>
+        <td>5%</td>
+      </tr>
+    </table>
     </p>
     <p>Soluções:</p>
     <div>
@@ -1624,7 +1663,7 @@ R$ 7.32 |*--------------------------------------*
       A seguir, determine qual o quadrante ao qual pertence o ponto (Q1, Q2,
       Q3 ou Q4). Se o ponto estiver na origem, escreva a mensagem “Origem”.
       Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”,
-      conforme for a situação. y ^ Q2 | Q1 ----*----&gt; x Q3 | Q4
+      conforme for a situação.
     </p>
     <p>Soluções:</p>
     <div>
@@ -1689,8 +1728,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->crescente
+        Problema: crescente
       </h5>
     </summary>
     <p>
@@ -1761,8 +1799,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->média idades
+        Problema: média idades
       </h5>
     </summary>
     <p>
@@ -1834,8 +1871,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->senha fixa
+        Problema: senha fixa
       </h5>
     </summary>
     <p>
@@ -1907,8 +1943,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->quadrante
+        Problema: quadrante
       </h5>
     </summary>
     <p>
@@ -1916,8 +1951,7 @@ R$ 7.32 |*--------------------------------------*
       indeterminada de pontos no sistema cartesiano. Para cada ponto
       escrever o quadrante a que ele pertence (Q1, Q2, Q3 ou Q4). O
       algoritmo será encerrado quando pelo menos uma de duas coordenadas for
-      NULA (nesta situação sem escrever mensagem alguma). y ^ Q2 | Q1
-      ---------&gt; x Q3 | Q4
+      NULA (nesta situação sem escrever mensagem alguma).
     </p>
     <p>Soluções:</p>
     <div>
@@ -1981,8 +2015,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->validação de nota
+        Problema: validação de nota
       </h5>
     </summary>
     <p>
@@ -2053,8 +2086,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->combustível
+        Problema: combustível
       </h5>
     </summary>
     <p>
@@ -2129,8 +2161,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->pares consecutivos
+        Problema: pares consecutivos
       </h5>
     </summary>
     <p>
@@ -2204,8 +2235,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->tabuada
+        Problema: tabuada
       </h5>
     </summary>
     <p>
@@ -2274,8 +2304,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->soma ímpares
+        Problema: soma ímpares
       </h5>
     </summary>
     <p>
@@ -2344,8 +2373,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->sequência ímpares
+        Problema: sequência ímpares
       </h5>
     </summary>
     <p>
@@ -2829,8 +2857,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->negativos
+        Problema: negativos
       </h5>
     </summary>
     <p>
@@ -2900,8 +2927,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->soma vetor
+        Problema: soma vetor
       </h5>
     </summary>
     <p>
@@ -2971,8 +2997,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->alturas
+        Problema: alturas
       </h5>
     </summary>
     <p>
@@ -3043,8 +3068,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->números pares
+        Problema: números pares
       </h5>
     </summary>
     <p>
@@ -3114,8 +3138,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->maior posição
+        Problema: maior posição
       </h5>
     </summary>
     <p>
@@ -3186,8 +3209,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->soma vetores
+        Problema: soma vetores
       </h5>
     </summary>
     <p>
@@ -3257,8 +3279,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->abaixo da média
+        Problema: abaixo da média
       </h5>
     </summary>
     <p>
@@ -3330,8 +3351,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->média pares
+        Problema: média pares
       </h5>
     </summary>
     <p>
@@ -3402,8 +3422,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->mais velho
+        Problema: mais velho
       </h5>
     </summary>
     <p>
@@ -3474,8 +3493,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->aprovados
+        Problema: aprovados
       </h5>
     </summary>
     <p>
@@ -3617,8 +3635,13 @@ R$ 7.32 |*--------------------------------------*
       que ele comercializa. Para isto, mandou digitar um conjunto de N
       mercadorias, cada uma contendo nome, preço de compra e preço de venda
       das mesmas. Fazer um programa que leia tais dados e determine e
-      escreva quantas mercadorias proporcionaram: - lucro &lt; 10% - 10% ≤
-      lucro ≤ 20% - lucro &gt; 20% Determine e escreva também o valor total
+      escreva quantas mercadorias proporcionaram:
+    </p>
+    <p>- lucro &lt; 10%</p>
+    <p>- 10% ≤ lucro ≤ 20%</p>
+    <p>- lucro &gt; 20%</p>
+    <p>
+      Determine e escreva também o valor total
       de compra e de venda de todas as mercadorias, assim como o lucro
       total.
     </p>
@@ -3685,8 +3708,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->diagonal negativos
+        Problema: diagonal negativos
       </h5>
     </summary>
     <p>
@@ -3757,8 +3779,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->soma linhas
+        Problema: soma linhas
       </h5>
     </summary>
     <p>
@@ -3830,8 +3851,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->negativos matriz
+        Problema: negativos matriz
       </h5>
     </summary>
     <p>
@@ -3901,8 +3921,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->cada linha
+        Problema: cada linha
       </h5>
     </summary>
     <p>
@@ -3972,8 +3991,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->soma matrizes
+        Problema: soma matrizes
       </h5>
     </summary>
     <p>
@@ -4045,8 +4063,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->acima diagonal
+        Problema: acima diagonal
       </h5>
     </summary>
     <p>
@@ -4116,8 +4133,7 @@ R$ 7.32 |*--------------------------------------*
   <details>
     <summary>
       <h5>
-        Problema:
-        <!-- -->matriz geral
+        Problema: matriz geral
       </h5>
     </summary>
     <p>
