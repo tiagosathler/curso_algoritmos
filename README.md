@@ -1,4 +1,4 @@
-# Curso de Algoritmos e Estruturas de Dados
+# Curso de Algoritmos e Lógica de Programação
 
 ## :white_check_mark:  Conteúdo
 
@@ -20,7 +20,7 @@
 
 [Udemy](https://www.udemy.com)
 
-[Curso de Algoritmos e Estruturas de Dados](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
+[Curso de Algoritmos e Lógica de Programação](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
 
 Ministrado pelo [Prof. Dr. Nelio Alves](https://www.udemy.com/user/nelio-alves/)
 
